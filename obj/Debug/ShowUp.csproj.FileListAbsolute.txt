@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\ShowUp\bin\Debug\ShowUp.exe.config
+C:\Users\student\Desktop\ShowUp\bin\Debug\ShowUp.exe
+C:\Users\student\Desktop\ShowUp\bin\Debug\ShowUp.pdb
+C:\Users\student\Desktop\ShowUp\obj\Debug\ShowUp.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\ShowUp\obj\Debug\ShowUp.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\ShowUp\obj\Debug\ShowUp.Form1.resources
+C:\Users\student\Desktop\ShowUp\obj\Debug\ShowUp.Properties.Resources.resources
+C:\Users\student\Desktop\ShowUp\obj\Debug\ShowUp.csproj.GenerateResource.cache
+C:\Users\student\Desktop\ShowUp\obj\Debug\ShowUp.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\ShowUp\obj\Debug\ShowUp.exe
+C:\Users\student\Desktop\ShowUp\obj\Debug\ShowUp.pdb
